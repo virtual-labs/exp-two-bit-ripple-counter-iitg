@@ -1,1 +1,1 @@
-### To implement the ripple counter
+Implementation of simple two-bit ripple counter
