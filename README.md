@@ -4,7 +4,7 @@
 <b>Discipline | <b>Computer Science and Engineering
 :--|:--|
 <b> Lab | <b> Digital Electronics Lab
-<b> Experiment|     <b> Two bit ripple counter
+<b> Experiment|     <b> 1131 To study a simple two-bit ripple counter.
 
 ### About the Experiment 
 
