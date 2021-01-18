@@ -1,1 +1,1 @@
-### Aim of the experiment
+Implementation of simple two-bit ripple counter

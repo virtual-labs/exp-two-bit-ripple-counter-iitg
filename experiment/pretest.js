@@ -89,21 +89,26 @@
 
 
      const myQuestions = [{
-            question: "1.This is a sample question:", ///// Write the question inside double quotes
+            question: "1.How many natural states will there be in a 4-bit ripple counter?", ///// Write the question inside double quotes
             answers: {
-                a: "This is a sample answer A", ///// Write the option 1 inside double quotes
-                b: "This is a sample answer B", ///// Write the option 2 inside double quotes
+                a: "4", ///// Write the option 1 inside double quotes
+                b: "8", ///// Write the option 2 inside double quotes
+                c: "16",
+                d: "32",
             },
-            correctAnswer: "a" ///// Write the correct option inside double quotes
+            correctAnswer: "c" ///// Write the correct option inside double quotes
         },
 
     {
-      question: "<img src='images/8.PNG'><br>Identify the location of Secondary electron detector",  ///// Write the question inside double quotes
+      question: "2. A ripple counter’s speed is limited by the propagation delay of:",  ///// Write the question inside double quotes
       answers: {
-        a: "<img src='images/1b.png'>",                  ///// Write the option 1 inside double quotes
-        b: "<img src='images/1a.png'>",                  ///// Write the option 2 inside double quotes
-        c: "<img src='images/1c.PNG'>",      },
-      correctAnswer: "c"                ///// Write the correct option inside double quotes
+        a: "Each flip-flop",                  ///// Write the option 1 inside double quotes
+        b: "All flip-flops and gates",                  ///// Write the option 2 inside double quotes
+        c: "The flip-flops only with gates",  
+        d: "Only circuit gates", 
+      
+      },
+      correctAnswer: "a"                ///// Write the correct option inside double quotes
     },
 
 
