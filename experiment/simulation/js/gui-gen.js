@@ -223,7 +223,7 @@ var retriveConnectionsFromDB = function(expId){
 };
 
 $(document).ready(function() {
-    $('#cktBody').css({'height':$(window).height('#sideBar')});
+    $('#cktBody').css({'height':$('#sideBar').height()});
 //     $('#sideBar').css({'height':$(window).height() - 90});
     setUI();
 });
