@@ -1,1 +1,19 @@
-[{"question":"1.How many natural states will there be in a 4-bit ripple counter?","answers":{"a":"4","b":"8","c":"16","d":"32"},"correctAnswer":"c"},{"question":"2. A ripple counter’s speed is limited by the propagation delay of:","answers":{"a":"Each flip-flop","b":"All flip-flops and gates","c":"The flip-flops only with gates","d":"Only circuit gates"},"correctAnswer":"a"}]
+[{
+	"question": "1.How many natural states will there be in a 4-bit ripple counter?",
+	"answers": {
+		"a": "4",
+		"b": "8",
+		"c": "16",
+		"d": "32"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "2. A ripple counter’s speed is limited by the propagation delay of:",
+	"answers": {
+		"a": "Each flip-flop",
+		"b": "All flip-flops and gates",
+		"c": "The flip-flops only with gates",
+		"d": "Only circuit gates"
+	},
+	"correctAnswer": "a"
+}]
